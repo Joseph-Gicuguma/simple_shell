@@ -3,7 +3,7 @@
 
 /*
  * File: shell.h
- * Auth: Innocent Maina && Victor Koech
+ * Auth: Joseph Gicuguma
  *
  */
 

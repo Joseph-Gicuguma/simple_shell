@@ -1,6 +1,6 @@
 /*
  * File: split.c
- * Auth: Innocent Maina && Victor Koech
+ * Auth: Joseph Gicuguma
  */
 
 #include "shell.h"
