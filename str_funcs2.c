@@ -1,6 +1,6 @@
 /*
  * File: str_funcs2.c
- * Auth: Nigel Marungu
+ * Auth: Joseph Gicuguma
  */
 
 #include "shell.h"

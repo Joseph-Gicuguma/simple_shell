@@ -1,6 +1,6 @@
 /*
  * File: linkedlist.c
- * Auth: Nigel Marungu
+ * Auth: Joseph Gicuguma
  * 
  */
 

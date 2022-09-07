@@ -1,6 +1,6 @@
 /*
  * File: helper.c
- * Auth: Nigel Marungu
+ * Auth: Joseph Gicuguma
  *
  */
 

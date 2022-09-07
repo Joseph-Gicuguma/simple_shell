@@ -1,6 +1,6 @@
 /*
  * File: locate.c
- * Auth: Nigel Marungu
+ * Auth: Joseph Gicuguma
  *       
  */
 

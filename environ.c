@@ -1,6 +1,6 @@
 /*
  * File: environ.c
- * Auth: Nigel Marungu
+ * Auth: Joseph Gicuguma
  * 
  */
 

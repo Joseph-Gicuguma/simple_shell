@@ -1,6 +1,6 @@
 /*
  * File: err_msgs1.c
- * Auth: Nigel Marungu
+ * Auth: Joseph Gicuguma
  * 
  */
 

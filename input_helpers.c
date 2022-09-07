@@ -1,6 +1,6 @@
 /*
  * File: input_helpers.c
- * Auth: Nigel Marungu
+ * Auth: Joseph Gicuguma
  * 
  */
 
