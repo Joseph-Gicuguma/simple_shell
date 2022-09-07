@@ -1,7 +1,7 @@
 /*
  * File: helpers_2.c
- * Auth: Joseph Gicuguma
- *
+ * Auth: Nigel Marungu
+ * 
  */
 
 #include "shell.h"

@@ -1,7 +1,7 @@
 /*
  * File: linkedlist.c
- * Auth: Joseph Gicuguma
- *
+ * Auth: Nigel Marungu
+ * 
  */
 
 #include "shell.h"

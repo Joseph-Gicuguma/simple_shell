@@ -1,6 +1,6 @@
 /*
  * File: main.c
- * Auth: Joseph Gicuguma
+ * Auth: Nigel Marungu
  *
  */
 

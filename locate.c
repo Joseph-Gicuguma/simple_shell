@@ -1,7 +1,7 @@
 /*
  * File: locate.c
- * Auth: Joseph Gicuguma
- *       Brennan D Baraban
+ * Auth: Nigel Marungu
+ *       
  */
 
 #include "shell.h"
